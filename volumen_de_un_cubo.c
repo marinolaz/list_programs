@@ -3,7 +3,7 @@
 
 int main(){
 	float a,volumen=0;
-	printf("calculadora de volumenes de cubos \n ingre la medida de uno de los lados de el cubo:  ");
+	printf("calculadora de volumenes de cubos \n ingrese la medida de uno de los lados de el cubo:  ");
 	scanf("%f",&a);
 	
 	volumen=pow(a,3);
